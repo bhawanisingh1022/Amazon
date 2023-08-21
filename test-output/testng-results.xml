@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-22T01:56:32 IST" name="Default suite" finished-at="2023-08-22T01:56:45 IST" duration-ms="13012">
+    <groups>
+    </groups>
+    <test started-at="2023-08-22T01:56:32 IST" name="Default test" finished-at="2023-08-22T01:56:45 IST" duration-ms="13012">
+      <class name="test_case.CreatedAc">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test_case.CreatedAc@47af7f3d]" started-at="2023-08-22T01:56:32 IST" name="setup" finished-at="2023-08-22T01:56:38 IST" duration-ms="5864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testca()[pri:1, instance:test_case.CreatedAc@47af7f3d]" started-at="2023-08-22T01:56:38 IST" name="testca" finished-at="2023-08-22T01:56:40 IST" duration-ms="1868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testca -->
+        <test-method signature="title()[pri:2, instance:test_case.CreatedAc@47af7f3d]" started-at="2023-08-22T01:56:40 IST" name="title" finished-at="2023-08-22T01:56:40 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test_case.CreatedAc@47af7f3d]" started-at="2023-08-22T01:56:40 IST" name="teardown" finished-at="2023-08-22T01:56:45 IST" duration-ms="5201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test_case.CreatedAc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
